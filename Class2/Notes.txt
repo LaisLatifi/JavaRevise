@@ -1,0 +1,12 @@
+ we have 8 variables at all
+ 1) bytes 128-127
+ 2) short -32768 to 32767
+ 3) int -2147483648 to 2147483647
+ 4) long - 9,223,372,XXX,XXX to
+ 5)float
+ 6)double
+ 7)char
+ 8)boolean
+ all of the above are primitve data types.
+  for whole numbers which are without decimal we use the byte, short, int, long.
+  - we have
