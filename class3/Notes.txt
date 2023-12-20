@@ -1,2 +1,3 @@
 Arithmetic Operation:
 are symbol we use to perfom tast of math in java
+ they are such as adding, subtract, multiply, and division
